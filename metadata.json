@@ -1,0 +1,5 @@
+{
+  "name": "Eletrocalha Calculadora",
+  "description": "Calculadora profissional para dimensionamento de eletrocalhas, leitos e eletrodutos baseada na norma NBR 5410, com suporte a múltiplos cabos e ajuste dinâmico de dimensões.",
+  "requestFramePermissions": []
+}
